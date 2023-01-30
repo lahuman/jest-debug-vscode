@@ -44,8 +44,7 @@ vscode에서 왼쪽에 ```run to debug``` 버튼을 클릭하여, ```Run and Deb
 2. ```Ctrl + Shift + D``` 또는 왼쪽에 ```Run and Debug``` 메뉴 선택
 3. 상단에서 실행 버튼 클릭 또는 ```F5``` 를 눌러서 debug 시작
 
-<iframe width="560" height="315" src="//www.youtube.com/embed/YnkeDlf0IU4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
+[![Video Label](http://img.youtube.com/vi/YnkeDlf0IU4/0.jpg)](https://youtu.be/YnkeDlf0IU4)
 
 
 ## 참고자료
